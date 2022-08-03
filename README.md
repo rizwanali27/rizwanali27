@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rizwanali27
+- 👀 I’m interested in sports
+- 🌱 I’m currently learning web development
+- 📫 How to reach me - rizu.rizwanali@gmail.com
